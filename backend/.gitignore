@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.vscode/
+.idea/
+
+# Do not commit large datasets or generated files.
+data/
+*.csv
+*.wav
+
+# The actual model artifact can be kept outside Git if desired.
+# Uncomment if you want to ignore it:
+# models/battery/*.joblib

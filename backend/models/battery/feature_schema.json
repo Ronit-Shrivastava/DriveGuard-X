@@ -1,0 +1,26 @@
+{
+    "feature_count": 21,
+    "features": [
+        "voltage_initial",
+        "voltage_final",
+        "voltage_min",
+        "voltage_max",
+        "voltage_mean",
+        "voltage_std",
+        "voltage_drop",
+        "current_mean",
+        "current_min",
+        "current_max",
+        "current_std",
+        "temperature_initial",
+        "temperature_final",
+        "temperature_max",
+        "temperature_mean",
+        "temperature_rise",
+        "load_current_abs_mean",
+        "load_current_abs_max",
+        "load_voltage_mean",
+        "load_voltage_min",
+        "discharge_duration"
+    ]
+}
